@@ -1,0 +1,46 @@
+vscode终端导出插件命令：code --list-extensions | % { "code --install-extension $_" }
+only in web：
+code --install-extension techer.open-in-browser
+code --install-extension ritwickdey.liveserver
+code --install-extension vincaslt.highlight-matching-tag
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension ren-wei.echarts-enhanced-completion
+code --install-extension sporiley.css-auto-prefix
+code --install-extension susiwen8.vscode-echarts-extension
+code --install-extension bracketpaircolordlw.bracket-pair-color-dlw
+
+all：
+code --install-extension usernamehw.errorlens
+code --install-extension tabnine.tabnine-vscode
+code --install-extension github.copilot
+code --install-extension pkief.material-icon-theme
+code --install-extension vitalyalekseev.genie
+---
+code --install-extension chrmarti.regex
+code --install-extension danielsanmedium.dscodegpt
+code --install-extension kisstkondoros.vscode-gutter-preview
+code --install-extension ms-python.debugpy
+
+py：
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-toolsai.vscode-jupyter-cell-tags
+
+
+一次更改所有类似单词：「Ctrl+Shift+L」
+选中后添加光标一次性多个操作：「Alt + Shift + i」
+打开终端：「Ctrl +_」
+拆分屏幕：「Ctrl +\」
+移动某行：「Alt+↑↓」
+在上下位置复制当前行：「Alt+Shift +↑↓」
+打开/关闭侧边栏：「Ctrl +b」
+打开键盘快捷方式：「Ctrl +k+s」
+导航具体行：ctrl + g 
+导航某标志：Ctrl + Shift + o
+删除前一个单词：Ctrl + backspace
+删除行：Ctrl + x
+列区域选中: Shift + Alt+鼠标拖动
+功能大全（通过搜索打开其他文件）：Ctrl + p

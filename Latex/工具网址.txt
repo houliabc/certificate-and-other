@@ -1,0 +1,2 @@
+在线编译（有些需要宏包的可能用不了）：https://cn.overleaf.com/
+数学公式：https://latex.codecogs.com/eqneditor/editor.php
